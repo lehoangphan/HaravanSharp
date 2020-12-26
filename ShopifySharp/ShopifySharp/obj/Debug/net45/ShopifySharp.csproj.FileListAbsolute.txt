@@ -1,0 +1,14 @@
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\net45\ShopifySharp.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\net45\ShopifySharp.pdb
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\net45\Microsoft.Extensions.Primitives.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\net45\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\net45\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.csprojAssemblyReference.cache
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.AssemblyInfoInputs.cache
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.AssemblyInfo.cs
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.csproj.CoreCompileInputs.cache
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.sourcelink.json
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.csproj.CopyComplete
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\net45\ShopifySharp.pdb

@@ -1,0 +1,10 @@
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\netcoreapp2.1\ShopifySharp.deps.json
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\netcoreapp2.1\ShopifySharp.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\bin\Debug\netcoreapp2.1\ShopifySharp.pdb
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\netcoreapp2.1\HaravanSharp.csprojAssemblyReference.cache
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\netcoreapp2.1\HaravanSharp.AssemblyInfoInputs.cache
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\netcoreapp2.1\HaravanSharp.AssemblyInfo.cs
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\netcoreapp2.1\HaravanSharp.csproj.CoreCompileInputs.cache
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\netcoreapp2.1\HaravanSharp.sourcelink.json
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\netcoreapp2.1\ShopifySharp.dll
+C:\Users\phan\Desktop\ModernSimpleEShop\ShopifySharp\ShopifySharp\obj\Debug\netcoreapp2.1\ShopifySharp.pdb
